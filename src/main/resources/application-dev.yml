@@ -1,0 +1,3 @@
+MONGO_DB_USER: root
+MONGO_DB_PASSWORD: password
+AUTH_SOURCE: admin
